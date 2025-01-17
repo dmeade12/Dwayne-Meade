@@ -1,4 +1,4 @@
-# as 
+# osTicket (Help Desk Ticketing System)
 
 
 <p align="center"><img src="https://i.imgur.com/RPZ9Gws.png" height="50%" width="50%" alt="image"/>
