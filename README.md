@@ -1,6 +1,3 @@
-# osTicket (Help Desk Ticketing System)
-
-
 <p align="center"><img src="https://i.imgur.com/RPZ9Gws.png" height="50%" width="50%" alt="image"/>
 <h1>osTicket Prerequisites and Installation</h1>
 <p>This tutorial outlines the prerequisites and installation of osTicketing System</p>
@@ -77,5 +74,4 @@ Browse to your help desk login page: <i> http://localhost/osTicket/scp/login.php
 <p align="center"><img src="https://i.imgur.com/dGWkdFJ.png" height="50%" width="50%" alt="image"/>
 
 <h4>N.B: - Clean up - Delete: C:\inetpub\wwwroot\osTicket\setup. Also set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php</h4>
-
 
