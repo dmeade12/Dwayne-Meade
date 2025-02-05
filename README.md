@@ -7,8 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/dmeade12/osTicket---Post-Install-Configuration)
   - [osTicket: Ticket Lifecycle Example](https://github.com/dmeade12/osTicket-Ticket-Lifecycle-Example)
 - <b>Microsoft Azure</b>
-  - [Preparing Active Directory Infastructure in Azure](https://github.com/joshmadakorcc/configure-ad)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Preparing Active Directory Infastructure in Azure](https://github.com/dmeade12/Setting-up-an-AD-in-Azure-)
 
 <h2>🤳Connect with me:</h2>
 
